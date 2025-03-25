@@ -1,4 +1,6 @@
 import { Star } from "lucide-react"
+import * as Lucide from "lucide-react";
+
 
 export default function HomePage() {
   return (
